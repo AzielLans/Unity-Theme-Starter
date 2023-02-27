@@ -1,5 +1,5 @@
 # Unity Theme Starter
-When installing the [**Unity**][https://github.com/Involts/jekyll-theme-Unity/] theme through [RubyGems.org][https://rubygems.org/gems/jekyll-theme-unity], Jekyll can only read files in the folders `/_data`, `/_layouts`, `/_includes`, `/_sass` and `/assets`, as well as a small part of options of the `/_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-Unity` to locate these files.
+When installing the [**Unity**](https://github.com/Involts/jekyll-theme-Unity/) theme through [RubyGems.org](https://rubygems.org/gems/jekyll-theme-unity), Jekyll can only read files in the folders `/_data`, `/_layouts`, `/_includes`, `/_sass` and `/assets`, as well as a small part of options of the `/_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-Unity` to locate these files.
 
 The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
 
@@ -21,7 +21,7 @@ Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installat
 
 ## Installation
 
-[**Use this template**][ https://github.com/Involts/Unity-Theme-Starter/generate] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+[**Use this template**]( https://github.com/Involts/Unity-Theme-Starter/generate) to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
 
 Then clone it to your local machine and run:
 
@@ -31,8 +31,8 @@ $ bundle
 
 ## Usage
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-Unity#documentation).
+Please see the [theme's docs](https://github.com/Involts/jekyll-theme-Unity#documentation).
 
 ## License
 
-This work is published under [MIT][https://github.com/cotes2020/Unity-Theme-tarter/blob/master/LICENSE.txt] License.
+This work is published under [MIT](https://github.com/Involts/Unity-Theme-tarter/blob/master/LICENSE.txt) License.
